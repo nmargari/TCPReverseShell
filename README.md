@@ -1,2 +1,2 @@
 # TCPReverseShell
-TCP Reverse Shell in python
+Basic TCP Reverse Shell in python
